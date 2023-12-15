@@ -2,10 +2,10 @@
 
 ## Files
 
-Used_car_price_prediction.ipynb - project notebook
-train_analysis.html - interactive train data profiling report
-test_analysis.html - interactive test data profiling report
-train_test_compare_analysis.html - interactive train/test data comparison report
+- *Used_car_price_prediction.ipynb* - project notebook
+- *train_analysis.html* - interactive train data profiling report
+- *test_analysis.html* - interactive test data profiling report
+- *train_test_compare_analysis.html* - interactive train/test data comparison report
 
 ## Data
 
@@ -37,7 +37,7 @@ Developing a model to predict the selling price of a used car. This is a regress
 
 ## Stack
 
-`Python`, `Numpy`, `Pandas`, `Seaborn`, `Matplotlib`, `Scikit-learn`, `Sweetviz`, `Fuzzywuzzy`, `Re`, `Phik`, `Vininfo`, `Shap`, `Optuna`, `CatBoost`
+`Python`, `Numpy`, `Pandas`, `Seaborn`, `Matplotlib`, `Scikit-learn`, `Sweetviz`, `Fuzzywuzzy`, `Re`, `Phik`, `Vininfo`, `Shap`, `Optuna`, `CatBoost`, `Streamlit`
 
 ## Main steps
 
